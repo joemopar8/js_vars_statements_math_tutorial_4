@@ -1,1 +1,1 @@
-# JS_Vars_Statements_Math Tutorial
+# JavaScript Vars and Statements and Math Tutorial
